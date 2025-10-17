@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Reingold.Episerver.SortableCheckboxListProperty</id>
+    <version>$version$</version>
+    <authors>Nate Olmsted</authors>
+    <owners>Reingold</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sortable checkboxlist property type</description>
+    <copyright>Copyright © Reingold 2025</copyright>
+    <tags>EPiServer EPiServerModulePackage ThirdPartyAddOn</tags>
+    <projectUrl>https://github.com/reingold-org/Episerver-SortableCheckboxListProperty</projectUrl>
+    <repository type="git" url="URL" branch="BRANCH_NAME" commit="COMMIT" />
+  </metadata>
+  <files>
+    <file src="bin\Reingold.Episerver.SortableCheckboxListProperty.zip" target="content\modules\_protected\Reingold.Episerver.SortableCheckboxListProperty\" />
+    <file src="web.config.transform" target="content" />
+  </files>
+</package>

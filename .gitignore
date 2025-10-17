@@ -1,0 +1,6 @@
+.vs/
+packages/
+*.nupkg
+SortableCheckboxListProperty/bin/
+SortableCheckboxListProperty/obj/
+*.user
